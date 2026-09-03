@@ -1,6 +1,6 @@
-# 🦄 Pony Bot Template
+# 🦄 Bot Template
 
-> Универсальный шаблон для создания Telegram-ботов по образу пони из My Little Pony.
+> Универсальный шаблон для создания Telegram-ботов.
 
 ## 📖 О проекте
 
